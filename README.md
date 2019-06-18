@@ -13,6 +13,6 @@ and for your information i'll try to add my instagram here, so just [click here]
 - meh.
 - stuffs that you certainly must know.
 
-![my-instagram](my instagram.png)
+![my-instagram](my-instagram.png)
 
 Thank you!
